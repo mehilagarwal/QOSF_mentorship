@@ -1,2 +1,2 @@
 # QOSF Task 2
-This notebook solves randomly generated error (none, phase-flip, bit-flip) acting after the Hadmard while creating Bell State phi+
+This notebook automatically solves any randomly generated error (no error, phase-flip error, bit-flip error) acting after the Hadmard while creating Bell State phi+
